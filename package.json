@@ -2,7 +2,7 @@
   "name": "git-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DhananjayGalave/git-react",
+  "homepage": "https://dhananjaygalave.github.io/git-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
